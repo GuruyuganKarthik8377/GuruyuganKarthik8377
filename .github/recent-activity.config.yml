@@ -1,0 +1,18 @@
+MAX_LINES: 5
+COMMIT_MSG: "chore: update README activity [skip ci]"
+ACTIVITY_FILTER:
+  - IssueEvent
+  - PullRequestEvent
+  - PushEvent
+  - ForkEvent
+  - WatchEvent
+  - CreateEvent
+IGNORE_REPOS:
+  - GuruyuganKarthik8377/GuruyuganKarthik8377
+URL_TEXT:
+  ISSUE: "opened issue"
+  PR: "opened PR"
+  PUSH: "pushed to"
+  FORK: "forked"
+  WATCH: "starred"
+  CREATE: "created"
