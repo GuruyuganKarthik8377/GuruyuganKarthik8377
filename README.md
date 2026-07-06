@@ -14,10 +14,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 CS undergrad @ **Chennai Institute of Technology** (2024 – 2028)
-- 🤖 Building production-grade multi-agent AI pipelines using **LangGraph + Claude API**
-- 🏢 Interned at **Flextronics GBS IT** — built Prompt Guardian, an enterprise prompt security middleware
-- 🌍 Open source contributor: **firecrawl**, **Meshery/sistent**, **codegraph**
+-  CS undergrad @ **Chennai Institute of Technology** (2024 – 2028)
+-  Building production-grade multi-agent AI pipelines using **LangGraph + Claude API**
+-  Interned at **Flextronics GBS IT** — built Prompt Guardian, an enterprise prompt security middleware
+-  Open source contributor: **firecrawl**, **Meshery/sistent**, **codegraph**
 
 <hr/>
 
