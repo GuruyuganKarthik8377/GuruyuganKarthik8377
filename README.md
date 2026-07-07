@@ -120,6 +120,13 @@
 
 <hr/>
 
+## 🔥 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<hr/>
+
 ## 📬 Connect
 
 <div align="center">
