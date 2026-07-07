@@ -26,109 +26,76 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
   <tr>
     <td width="50%" valign="top">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3>⚖️ CLEARANCE</h3>
+        <h3><a href="https://github.com/GuruyuganKarthik8377/Trust-Pay">💳 Trust-Pay</a></h3>
+        <p><code>[FINTECH]</code> <code>[WEB3]</code> <code>[BLOCKCHAIN]</code></p>
+        <p>Decentralized Web3 payment platform — manage crypto assets, subscriptions, and everyday payments secured on-chain.</p>
         <p>
-          <img src="https://img.shields.io/badge/MULTI--AGENT-00D9FF?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/HIRING-FF6B35?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/STATUS:_DEPLOYED-238636?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+          <img src="https://img.shields.io/badge/Ethers.js-764ABC?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black" />
         </p>
-        <p>Four-specialist pipeline: <code>SkillsExtractor → ClaimsVerifier → BiasAuditor → FitScorer</code>. Built for the CROO Agent Hackathon @ DoraHacks.</p>
-        <p>
-          <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        </p>
-        <a href="https://github.com/GuruyuganKarthik8377/clearance">→ View project</a>
+        <p><b>Status:</b> ✅ DEPLOYED</p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3>🛡️ PROMPT GUARDIAN</h3>
-        <p>
-          <img src="https://img.shields.io/badge/SECURITY-DA3633?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/ENTERPRISE-6E40C9?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/STATUS:_DEPLOYED-238636?style=flat-square&logoColor=white" />
-        </p>
-        <p>3-layer prompt security middleware: <code>regex → Presidio NER → Claude LLM</code>. Risk score fusion with Python SDK. Built at Flextronics internship.</p>
+        <h3><a href="https://github.com/GuruyuganKarthik8377/InsightRAG">🔎 InsightRAG</a></h3>
+        <p><code>[RAG]</code> <code>[AI]</code> <code>[LLM]</code></p>
+        <p>Hybrid retrieval (BM25 + semantic search) + Claude AI for citation-backed Q&A over large PDFs, DOCX, and TXT files.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Presidio-0078D4?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/BM25-6E40C9?style=flat-square&logoColor=white" />
         </p>
-        <a href="https://github.com/GuruyuganKarthik8377/prompt-guardian">→ View project</a>
+        <p><b>Status:</b> ✅ DEPLOYED</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3>🔍 SENTINELMIND</h3>
+        <h3><a href="https://github.com/GuruyuganKarthik8377/decentralized-health-records">🏥 DHRW</a></h3>
+        <p><code>[HEALTH]</code> <code>[BLOCKCHAIN]</code> <code>[WEB3]</code></p>
+        <p>Patient-controlled medical records on blockchain — smart contracts + IPFS ensure secure storage and immutable audit logs.</p>
         <p>
-          <img src="https://img.shields.io/badge/MULTI--AGENT-00D9FF?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/DEVOPS-1F6FEB?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/STATUS:_ACTIVE-D29922?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+          <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
-        <p>Autonomous incident intelligence for Splunk. Agents that detect, diagnose, and respond — powered by Foundation-sec-1.1 and Claude API.</p>
-        <p>
-          <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Foundation--sec--1.1-6E40C9?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
-        </p>
-        <a href="https://github.com/GuruyuganKarthik8377/sentinelmind">→ View project</a>
+        <p><b>Status:</b> 🟡 ACTIVE</p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3>🗺️ KSHETRA</h3>
+        <h3><a href="https://github.com/GuruyuganKarthik8377/Intelligent-Email-Processing-and-Decision-Support-System-IEPDSS-">📧 IEPDSS</a></h3>
+        <p><code>[AGENTIC]</code> <code>[NLP]</code> <code>[AUTOMATION]</code></p>
+        <p>AI-driven email classification, routing, and auto-response engine — hybrid rule + LLM logic with dynamic invoice handling.</p>
         <p>
-          <img src="https://img.shields.io/badge/MULTI--AGENT-00D9FF?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/DISASTER_RESPONSE-DA3633?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/STATUS:_ACTIVE-D29922?style=flat-square&logoColor=white" />
-        </p>
-        <p>Real-time war room for crisis command. Human-in-the-loop oversight layer with live Leaflet.js map. Citadel 1.0 Hackathon.</p>
-        <p>
-          <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         </p>
-        <a href="https://github.com/GuruyuganKarthik8377/kshetra">→ View project</a>
+        <p><b>Status:</b> ✅ DEPLOYED</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3>🏦 REVIVE</h3>
+        <h3><a href="https://github.com/GuruyuganKarthik8377/Elsewhere-AI">🌌 Elsewhere AI</a></h3>
+        <p><code>[AI]</code> <code>[GENERATIVE]</code> <code>[EXPERIENCE]</code></p>
+        <p>Cinematic AI multiverse — explore alternate versions of yourself through emotionally immersive narratives shaped by your life choices.</p>
         <p>
-          <img src="https://img.shields.io/badge/FINTECH-238636?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/AGENTIC-6E40C9?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/STATUS:_DEPLOYED-238636?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         </p>
-        <p>Reactivates dormant SBI accounts via AI-driven personalized outreach and digital re-KYC. LangGraph orchestration end-to-end.</p>
-        <p>
-          <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        </p>
-        <a href="https://github.com/GuruyuganKarthik8377/revive">→ View project</a>
+        <p><b>Status:</b> 🟡 ACTIVE</p>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3>💧 DRIP</h3>
-        <p>
-          <img src="https://img.shields.io/badge/FINTECH-238636?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/CONSUMER-1F6FEB?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/STATUS:_ACTIVE-D29922?style=flat-square&logoColor=white" />
-        </p>
-        <p>Recurring payment intelligence using RBI Account Aggregator to surface forgotten subscriptions. Stop the silent drain.</p>
-        <p>
-          <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        </p>
-        <a href="https://github.com/GuruyuganKarthik8377/drip">→ View project</a>
-      </div>
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -212,13 +179,19 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <div align="center">
-
-<a href="mailto:guruyugankarthik.cse2024@citchennai.net">📬 Email</a> &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/guruyugan-karthik">💼 LinkedIn</a> &nbsp;·&nbsp;
-<b>Open to:</b> Internships · Hackathon collabs · Research roles
-
-<br/><br/>
-
-<i>"The best agent is one you never have to babysit."</i>
-
+  <a href="https://www.linkedin.com/in/guruyugan-karthik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:guruyugankarthik@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/GuruyuganKarthik8377" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <br><br>
+  <b>Open to:</b> Internships · Hackathon collabs · Research roles
+  <br><br>
+  <i>"The best agent is one you never have to babysit."</i>
 </div>
