@@ -15,10 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pac-Man contribution graph
-        uses: hugoalh/github-actions-core@v2
-        continue-on-error: true
-
       - name: Generate Pac-Man SVG
         uses: Platane/snk/svg-only@v3
         with:
