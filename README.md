@@ -158,7 +158,7 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
     srcset="https://raw.githubusercontent.com/GuruyuganKarthik8377/GuruyuganKarthik8377/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/GuruyuganKarthik8377/GuruyuganKarthik8377/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake"
+  <img alt="pac-man"
     src="https://raw.githubusercontent.com/GuruyuganKarthik8377/GuruyuganKarthik8377/output/github-contribution-grid-snake.svg" />
 </picture>
 
