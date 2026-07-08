@@ -10,7 +10,7 @@
 
 </div>
 
-## 🧠 Identity
+## Identity
 
 I'm Guru — a CS undergrad at Chennai Institute of Technology obsessed with one thing: building multi-agent AI systems that actually do something meaningful. Not demos. Not wrappers. Orchestrated pipelines where agents reason, specialize, and collaborate.
 
