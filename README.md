@@ -173,7 +173,7 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 2. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GuruyuganKarthik8377](https://github.com/GuruyuganKarthik8377/GuruyuganKarthik8377)
 3. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GuruyuganKarthik8377](https://github.com/GuruyuganKarthik8377/GuruyuganKarthik8377)
 4. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GuruyuganKarthik8377](https://github.com/GuruyuganKarthik8377/GuruyuganKarthik8377)
-5. 💬 Commented on [#408](https://github.com/coaxk/subarr/issues/408#issuecomment-4872842008) in [coaxk/subarr](https://github.com/coaxk/subarr)
+5. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GuruyuganKarthik8377](https://github.com/GuruyuganKarthik8377/GuruyuganKarthik8377)
 <!--RECENT_ACTIVITY:end-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
