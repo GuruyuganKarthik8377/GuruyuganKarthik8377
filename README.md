@@ -125,7 +125,7 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🔀 Open Source Contributions
+## Open Source Contributions
 
 1. **[firecrawl #3868](https://github.com/mendableai/firecrawl/pull/3868)** — Helm chart support for external Redis, PostgreSQL, RabbitMQ
 2. **[Meshery/sistent](https://github.com/layer5io/sistent)** — Fixed hardcoded YouTube `src` bug in `JourneyModal.tsx` · [Issue #20118](https://github.com/meshery/meshery/issues/20118)
@@ -133,7 +133,7 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -149,7 +149,7 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🐍 Contribution Grid
+## Contribution Grid
 
 <div align="center">
 
@@ -166,7 +166,7 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## ⚡ Recent Activity
+## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GuruyuganKarthik8377](https://github.com/GuruyuganKarthik8377/GuruyuganKarthik8377)
