@@ -101,7 +101,7 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **🧠 AI & Agents**
 
