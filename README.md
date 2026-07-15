@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+Orchestrating+agents+that+think;🧠+LangGraph+%7C+Claude+API+%7C+FastAPI;🌐+Multi-agent+systems+for+real+problems;⚡+CS+undergrad+%40+CIT+%7C+Building+in+public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Orchestrating+agents+that+think...;LangGraph+%7C+Claude+API+%7C+FastAPI;Multi-agent+systems+for+real+problems;CS+undergrad+%40+CIT+%7C+Building+in+public" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -137,13 +137,13 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuruyuganKarthik8377&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=GuruyuganKarthik8377&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=GuruyuganKarthik8377&theme=tokyonight&hide_border=true" height="160" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruyuganKarthik8377&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=GuruyuganKarthik8377&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
