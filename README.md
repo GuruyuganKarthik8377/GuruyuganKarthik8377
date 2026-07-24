@@ -14,7 +14,7 @@
 
 I'm Guru — a CS undergrad at Chennai Institute of Technology obsessed with one thing: building multi-agent AI systems that actually do something meaningful. Not demos. Not wrappers. Orchestrated pipelines where agents reason, specialize, and collaborate.
 
-My proof of concept is production code. At Flextronics, I shipped Prompt Guardian — enterprise middleware with a 3-layer security stack — while simultaneously merging PRs into firecrawl, Meshery, and codegraph. The internship was real, the open source is real, the systems run.
+My proof of concept is production code. At Flextronics, I shipped RAG systems — enterprise middleware with a 3-layer security stack — while simultaneously merging PRs into firecrawl, Meshery, and codegraph. The internship was real, the open source is real, the systems run.
 
 I treat hackathons as a 48-hour lab. Every project in my roster started as a question: *what if agents could handle this without a human in the loop?* I'm still answering that question.
 
