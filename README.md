@@ -169,11 +169,11 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/datafusion](https://github.com/GuruyuganKarthik8377/datafusion)
-2. 🔱 Forked [GuruyuganKarthik8377/datafusion](https://github.com/GuruyuganKarthik8377/datafusion) from [apache/datafusion](https://github.com/apache/datafusion)
-3. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GuruyuganKarthik8377](https://github.com/GuruyuganKarthik8377/GuruyuganKarthik8377)
-4. 💪 Opened PR [#362](undefined) in [wickenico/WailBrew](https://github.com/wickenico/WailBrew)
-5. 🔱 Forked [GuruyuganKarthik8377/WailBrew](https://github.com/GuruyuganKarthik8377/WailBrew) from [wickenico/WailBrew](https://github.com/wickenico/WailBrew)
+1. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GenAI-and-LLM-lab-](https://github.com/GuruyuganKarthik8377/GenAI-and-LLM-lab-)
+2. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/datafusion](https://github.com/GuruyuganKarthik8377/datafusion)
+3. 🔱 Forked [GuruyuganKarthik8377/datafusion](https://github.com/GuruyuganKarthik8377/datafusion) from [apache/datafusion](https://github.com/apache/datafusion)
+4. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GuruyuganKarthik8377](https://github.com/GuruyuganKarthik8377/GuruyuganKarthik8377)
+5. 💪 Opened PR [#362](undefined) in [wickenico/WailBrew](https://github.com/wickenico/WailBrew)
 <!--RECENT_ACTIVITY:end-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
