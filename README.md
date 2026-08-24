@@ -172,7 +172,6 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 1. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GenAI-and-LLM-lab-](https://github.com/GuruyuganKarthik8377/GenAI-and-LLM-lab-)
 2. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/datafusion](https://github.com/GuruyuganKarthik8377/datafusion)
 3. 🔱 Forked [GuruyuganKarthik8377/datafusion](https://github.com/GuruyuganKarthik8377/datafusion) from [apache/datafusion](https://github.com/apache/datafusion)
-4. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/GuruyuganKarthik8377](https://github.com/GuruyuganKarthik8377/GuruyuganKarthik8377)
 <!--RECENT_ACTIVITY:end-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
