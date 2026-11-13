@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Orchestrating+agents+that+think...;LangGraph+%7C+Claude+API+%7C+FastAPI;Multi-agent+systems+for+real+problems;CS+undergrad+%40+CIT+%7C+Building+in+public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Orchestrating+agents+that+think...;AI+advises.+Rules+decide.+Systems+act.;Claude+API+%7C+FastAPI+%7C+Next.js;CS+undergrad+%40+CIT+%7C+Building+in+public" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -8,15 +8,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-</div>
-
 ## Identity
 
-I'm Guru — a CS undergrad at Chennai Institute of Technology obsessed with one thing: building multi-agent AI systems that actually do something meaningful. Not demos. Not wrappers. Orchestrated pipelines where agents reason, specialize, and collaborate.
+I'm Guru — a CS undergrad at Chennai Institute of Technology obsessed with one thing: building multi-agent AI systems that actually do something meaningful. Not demos. Not wrappers. Orchestrated pipelines where agents reason, specialize, and collaborate — with hard guardrails around what they're allowed to decide.
 
-My proof of concept is production code. At Flextronics, I shipped RAG systems — enterprise middleware with a 3-layer security stack — while simultaneously merging PRs into firecrawl, Meshery, and codegraph. The internship was real, the open source is real, the systems run.
-
-I treat hackathons as a 48-hour lab. Every project in my roster started as a question: *what if agents could handle this without a human in the loop?* I'm still answering that question.
+At Flextronics, I shipped RAG systems — enterprise middleware with a 3-layer security stack. Outside work, I contribute to open source (firecrawl, WailBrew, Meshery) and treat hackathons as a 48-hour lab. Every project below started as a question: *what if agents could handle this without a human in the loop — and what should they never be trusted with?*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -25,79 +21,109 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 <table>
   <tr>
     <td width="50%" valign="top">
-      <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3><a href="https://github.com/GuruyuganKarthik8377/Trust-Pay">💳 Trust-Pay</a></h3>
-        <p><code>[FINTECH]</code> <code>[WEB3]</code> <code>[BLOCKCHAIN]</code></p>
-        <p>Decentralized Web3 payment platform — manage crypto assets, subscriptions, and everyday payments secured on-chain.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-          <img src="https://img.shields.io/badge/Ethers.js-764ABC?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black" />
-        </p>
-        <p><b>Status:</b> ✅ DEPLOYED</p>
-      </div>
+      <h3><a href="https://github.com/GuruyuganKarthik8377/LEVee">🌀 LEVee</a></h3>
+      <p><code>[AGENTIC]</code> <code>[FINTECH]</code> <code>[DISASTER RELIEF]</code></p>
+      <p>Help that arrives <i>before</i> the storm. Donors pledge once through PayPal; AI agents read hurricane forecasts and proof of readiness, fixed published rules decide, and vetted local responders get paid up to 72 hours before landfall.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" />
+      </p>
+      <p><a href="https://youtu.be/SCKDH2wnVVg">▶ 3-minute demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3><a href="https://github.com/GuruyuganKarthik8377/InsightRAG">🔎 InsightRAG</a></h3>
-        <p><code>[RAG]</code> <code>[AI]</code> <code>[LLM]</code></p>
-        <p>Hybrid retrieval (BM25 + semantic search) + Claude AI for citation-backed Q&A over large PDFs, DOCX, and TXT files.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/BM25-6E40C9?style=flat-square&logoColor=white" />
-        </p>
-        <p><b>Status:</b> ✅ DEPLOYED</p>
-      </div>
+      <h3><a href="https://github.com/GuruyuganKarthik8377/Dusk-">🌒 Dusk</a></h3>
+      <p><code>[HEALTH]</code> <code>[ZK PRIVACY]</code> <code>[SAFETY]</code></p>
+      <p>Pre-shift cognitive readiness screening for pilots, operators and surgeons. Issues a QR-verifiable readiness passport, proven with zero-knowledge proofs on Midnight so auditors never see the worker's raw health data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Midnight_ZK-6E40C9?style=flat-square&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3><a href="https://github.com/GuruyuganKarthik8377/decentralized-health-records">🏥 DHRW</a></h3>
-        <p><code>[HEALTH]</code> <code>[BLOCKCHAIN]</code> <code>[WEB3]</code></p>
-        <p>Patient-controlled medical records on blockchain — smart contracts + IPFS ensure secure storage and immutable audit logs.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-          <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        </p>
-        <p><b>Status:</b> 🟡 ACTIVE</p>
-      </div>
+      <h3><a href="https://github.com/GuruyuganKarthik8377/Pulmira">🫁 Pulmira</a></h3>
+      <p><code>[DIGITAL TWIN]</code> <code>[HEALTH]</code> <code>[ML]</code></p>
+      <p>Observation-led respiratory digital twin for COPD monitoring research — coverage-aware signals, a transparent seven-day formula outlook, a scenario simulator and a separate next-day ML experiment. Digital Twin Challenge 2026.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3><a href="https://github.com/GuruyuganKarthik8377/Intelligent-Email-Processing-and-Decision-Support-System-IEPDSS-">📧 IEPDSS</a></h3>
-        <p><code>[AGENTIC]</code> <code>[NLP]</code> <code>[AUTOMATION]</code></p>
-        <p>AI-driven email classification, routing, and auto-response engine — hybrid rule + LLM logic with dynamic invoice handling.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        </p>
-        <p><b>Status:</b> ✅ DEPLOYED</p>
-      </div>
+      <h3><a href="https://github.com/GuruyuganKarthik8377/InsightRAG">🔎 InsightRAG</a></h3>
+      <p><code>[RAG]</code> <code>[AI]</code> <code>[LLM]</code></p>
+      <p>Hybrid retrieval (BM25 + semantic search) with reranking and Claude for citation-backed Q&A over large PDFs, DOCX and TXT files.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/BM25-6E40C9?style=flat-square&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:16px;">
-        <h3><a href="https://github.com/GuruyuganKarthik8377/Elsewhere-AI">🌌 Elsewhere AI</a></h3>
-        <p><code>[AI]</code> <code>[GENERATIVE]</code> <code>[EXPERIENCE]</code></p>
-        <p>Cinematic AI multiverse — explore alternate versions of yourself through emotionally immersive narratives shaped by your life choices.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        </p>
-        <p><b>Status:</b> 🟡 ACTIVE</p>
-      </div>
+      <h3><a href="https://github.com/GuruyuganKarthik8377/AI-Prompt-Security-Gateway">🛡️ AI Prompt Security Gateway</a></h3>
+      <p><code>[AI SECURITY]</code> <code>[LLM]</code> <code>[MIDDLEWARE]</code></p>
+      <p>Policy layer between users and LLMs: regex, NER (Presidio + spaCy) and a Claude risk classifier decide whether each prompt is blocked, masked or allowed. API-key auth and rate limiting built in.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
+      </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GuruyuganKarthik8377/Vantage">📈 Vantage</a></h3>
+      <p><code>[FINTECH]</code> <code>[AI]</code> <code>[ANALYTICS]</code></p>
+      <p>Portfolio intelligence for Indian mutual fund investors — allocation, overlap, concentration and risk analysis, plus a streaming Claude-written narrative exported as a PDF report.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GuruyuganKarthik8377/OutPace-HQ">📣 OutPace HQ</a></h3>
+      <p><code>[AGENTIC]</code> <code>[AUTOMATION]</code> <code>[RAG]</code></p>
+      <p>Event management and marketing automation backend: mirrors events to Luma, answers questions over a FAISS + Claude knowledge base, publishes across channels, and runs Slack, WhatsApp and email concierges.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GuruyuganKarthik8377/Cadence">🔥 Cadence</a></h3>
+      <p><code>[MOBILE]</code> <code>[SOCIAL]</code></p>
+      <p>Social habit tracker with streaks, reminders, insights, a home-screen widget and friend accountability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
+
+<details>
+<summary><b>More builds</b></summary>
+<br/>
+
+- **[IEPDSS](https://github.com/GuruyuganKarthik8377/Intelligent-Email-Processing-and-Decision-Support-System-IEPDSS-)** — email classification, routing and auto-response with hybrid rule + LLM logic
+- **[InvoSight](https://github.com/GuruyuganKarthik8377/InvoSight)** — intelligent invoice processing and extraction
+- **[Trust-Pay](https://github.com/GuruyuganKarthik8377/Trust-Pay)** — Web3 payments, subscriptions and rewards (Solidity, ethers.js, Hardhat)
+- **[DHRW](https://github.com/GuruyuganKarthik8377/decentralized-health-records)** — patient-controlled medical records on blockchain + IPFS
+- **[CrowdFund-DAO](https://github.com/GuruyuganKarthik8377/CrowdFund-DAO)** — on-chain crowdfunding with wallet integration
+- **[PipeSense](https://github.com/GuruyuganKarthik8377/PipeSense)** — real-time industrial water pipeline monitoring with physics-based simulation
+- **[Elsewhere AI](https://github.com/GuruyuganKarthik8377/Elsewhere-AI)** — cinematic AI multiverse of alternate selves
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -106,30 +132,45 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 **🧠 AI & Agents**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-**🌐 Frontend**
+**🌐 Frontend & Mobile**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-**⚙️ Infrastructure**
+**⚙️ Data & Infrastructure**
 
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+**⛓️ Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## Open Source Contributions
 
-1. **[firecrawl #3868](https://github.com/mendableai/firecrawl/pull/3868)** — Helm chart support for external Redis, PostgreSQL, RabbitMQ
-2. **[Meshery/sistent](https://github.com/layer5io/sistent)** — Fixed hardcoded YouTube `src` bug in `JourneyModal.tsx` · [Issue #20118](https://github.com/meshery/meshery/issues/20118)
-3. **[codegraph #726](https://github.com/codegraph/codegraph/pull/726)** — Windows named pipe stale socket fix in TypeScript
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [WailBrew](https://github.com/wickenico/WailBrew) | [#362](https://github.com/wickenico/WailBrew/pull/362) — remove cask quarantine attribute and relaunch the app after install/upgrade | ✅ Merged |
+| [One-File-Tools](https://github.com/praveenscience/One-File-Tools) | [#487](https://github.com/praveenscience/One-File-Tools/pull/487) — color-blindness simulator | ✅ Merged |
+| [firecrawl](https://github.com/firecrawl/firecrawl) | [#3868](https://github.com/firecrawl/firecrawl/pull/3868) — Helm chart support for external Redis, PostgreSQL and RabbitMQ | 🔄 In review |
+| [UTD Nebula](https://github.com/UTDNebula/website-v2) | [#142](https://github.com/UTDNebula/website-v2/pull/142) — add CODEOWNERS file | 🔄 In review |
+| [Meshery](https://github.com/meshery/meshery) | [Issue #20118](https://github.com/meshery/meshery/issues/20118) — reported hardcoded YouTube `src` in `JourneyModal.tsx` | 🐛 Reported |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -163,18 +204,6 @@ I treat hackathons as a 48-hour lab. Every project in my roster started as a que
 </picture>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-## Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/Pulmira](https://github.com/GuruyuganKarthik8377/Pulmira)
-2. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/Pulmira](https://github.com/GuruyuganKarthik8377/Pulmira)
-3. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/Pulmira](https://github.com/GuruyuganKarthik8377/Pulmira)
-4. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/Pulmira](https://github.com/GuruyuganKarthik8377/Pulmira)
-5. ⬆️ Pushed undefined commit(s) to [GuruyuganKarthik8377/Pulmira](https://github.com/GuruyuganKarthik8377/Pulmira)
-<!--RECENT_ACTIVITY:end-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
